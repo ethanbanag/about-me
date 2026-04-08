@@ -7,12 +7,12 @@ My [GitHub](https://github.com/ethanbanag)
 My [Projects](pages-docs/projects.md)
 
 ## Table Of Contents
-### [About Me](#about-me1)
-### [Languages/Frameworks I Know](#languagesframeworks-i-know1)
-### [Some Fun Facts](#some-fun-facts1)
-### [Some Future Goals](#some-future-goals1)
-### [My Weekly Goals](#my-weekly-goals1)
-### [A Favorite Quote of Mine](#a-favorite-quote-of-mine1)
+### [Me](#about-me)
+### [Languages/Frameworks](#languagesframeworks-i-know)
+### [Fun Facts](#some-fun-facts)
+### [Future Goals](#some-future-goals)
+### [Weekly Goals](#my-weekly-goals)
+### [Favorite Quote](#a-favorite-quote-of-mine)
 
 ### About Me 
 Hi my name is Ethan Managbanag, I am currently a second-year student at UCSD studying Computer Science. I hope you enjoy my page!
@@ -33,8 +33,6 @@ Hi my name is Ethan Managbanag, I am currently a second-year student at UCSD stu
 
 <img src="pages-docs/puss-mika.jpg" width="300">
 <img src="pages-docs/fiona.jpg" width="300">
-![Picture of my cats](pages-docs/puss-mika.jpg)
-![Picture of my cats](pages-docs/fiona.jpg)
 
 ### Some Future Goals
 1. Graduate and find a full-stack job
