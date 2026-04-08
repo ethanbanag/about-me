@@ -1,2 +1,2 @@
 # about-me
-My CSE100 repository
+Ethan's User Page
