@@ -31,8 +31,7 @@ Hi my name is Ethan Managbanag, I am currently a second-year student at UCSD stu
 - My favorite show is Invincible
 - I have 3 cats (see below)
 
-<img src="pages-docs/puss-mika.jpg" width="300" display="inline-block">
-<img src="pages-docs/fiona.jpg" width="300" display="inline-block">
+<img src="pages-docs/puss-mika.jpg" width="300"> <img src="pages-docs/fiona.jpg" width="300">
 
 ### Some Future Goals
 1. Graduate and find a full-stack job
